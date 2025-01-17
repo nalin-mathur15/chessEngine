@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chess Analysis and Best-Move Finder
 
 ## Overview
