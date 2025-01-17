@@ -54,5 +54,4 @@ This approach prioritises high-impact moves and ensures the search tree is optim
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-=======
 
