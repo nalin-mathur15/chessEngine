@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chess Analysis and Best-Move Finder
 
 ## Overview
@@ -54,3 +55,6 @@ This approach prioritises high-impact moves and ensures the search tree is optim
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
+=======
+# chessEngine
+>>>>>>> 7059d492aee642deb01f7ee9aca4ba246b1d34c2
